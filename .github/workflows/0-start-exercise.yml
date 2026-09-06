@@ -21,7 +21,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.8.1
     with:
       exercise-title: "Introduction to GitHub"
-      intro-message: "If you are new to GitHub, you might find your fellow developers use ___**issues**___  to organize their work and collaborate. We will do the same! That's another lesson, but today, we will introduce you to the basics."
+      intro-message: "If you're new to GitHub, you've probably seen developers using ___**issues**___ to stay organized and collaborate. We’re doing that too—because it’s how real projects ship. Let’s jump in and learn the basics with a fun, hands-on vibe. 🚀"
 
   post_next_step_content:
     name: Post next step content
